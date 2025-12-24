@@ -21,9 +21,10 @@
   3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
 
 # Решение 1
+Terraform
+[main.tf](https://github.com/Sayward-k8/sflt-hw-04/blob/main/terraform/main.tf)
 
 ![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/1.png)
 ![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/2.png)
 ![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/3.png)
-![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/4.png)
-![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/5.png)
+
