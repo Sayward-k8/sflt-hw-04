@@ -24,7 +24,11 @@
 Terraform
 [main.tf](https://github.com/Sayward-k8/sflt-hw-04/blob/main/terraform/main.tf)
 
+![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/0.png)
+
 ![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/1.png)
+
 ![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/2.png)
+
 ![alt text](https://github.com/Sayward-k8/sflt-hw-04/blob/main/img/3.png)
 
